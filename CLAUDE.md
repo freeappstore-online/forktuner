@@ -14,4 +14,5 @@ microphone, entirely client-side.
   `.github/workflows/pages.yml`, independent of the FreeAppStore pipeline
 
 Free, MIT-licensed, no tracking, no account. Mic audio never leaves the
-browser. See https://freeappstore.online/skills.md for platform conventions.
+browser. See https://freeappstore.online/skills.md for platform conventions (same
+guide, source form: https://raw.githubusercontent.com/freeappstore-online/freeappstore/main/SKILLS.md).
